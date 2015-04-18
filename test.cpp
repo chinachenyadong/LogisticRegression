@@ -3,11 +3,13 @@
 #include <map>
 #include <sstream>
 #include <string>
+#include <ctime>
 
 using namespace std;
 
 void find_test()
 {
+	cout << "chenyadong" << endl;
 	string tmp = "hehe w yao hehe ni";
 	string::size_type pos1 = tmp.find("hehe");
 	string::size_type pos2 = tmp.rfind("hehe");
