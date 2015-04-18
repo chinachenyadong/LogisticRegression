@@ -63,5 +63,6 @@ void map_test()
 int main()
 {
 	cout << "I want to love you !" << endl;
+	cout << "I want to love you !" << endl;
 	map_test();	
 }
