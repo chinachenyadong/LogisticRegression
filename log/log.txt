@@ -1,0 +1,3 @@
+The total number of sample is : 610
+The correct prediction number is : 566
+Precision : 0.927869
